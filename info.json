@@ -1,0 +1,8 @@
+{
+  "name": "GhostEntityOnDeathTechnology",
+  "version": "0.0.0",
+  "title": "Ghost Entity On Death Technology",
+  "author": "Stargateur",
+  "description": "Add a technology to unlock ghost entuty on death early on.",
+  "factorio_version": "2.0"
+}
