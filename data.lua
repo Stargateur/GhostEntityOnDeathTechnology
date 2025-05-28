@@ -7,14 +7,15 @@ data:extend({
       type = "create-ghost-on-entity-death",
       modifier = true,
     } },
+    prerequisites = { "automation-science-pack" },
     unit =
     {
-      count = 50,
+      count = 10,
       ingredients =
       {
         { "automation-science-pack", 1 },
       },
-      time = 30,
+      time = 10,
     },
   },
 })
